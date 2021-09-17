@@ -9,7 +9,7 @@
 - 🔍 My goal is to continue to improve humanly and professionally through the deepening of my knowledge
 - 💬 Ping me about **UXDesign**, **Swift**, **SwiftUI**, **OS/iOS Development**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/carraromarco/) -  [Twitter](https://twitter.com/carra89)
-- 🌍 Wolrd explorer in the weekends
+- 🌍 World explorer in the weekends
 - 😉 Fun fact: "I'm not always rude and sarcastic... sometimes I'm asleep..."
 
 ---
