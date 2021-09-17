@@ -3,7 +3,7 @@
 
 ##### ABOUT ME
 - 🏢 Currently customizing websites and sharpening my SwiftUI skills
-- ⚙️ I use daily: `.html`, `.css`, `.php`, `.js`, `.psd`, `.png`, `.ai`, `.pdf`, `.sql`, `.json`, `.xcodeproj`, `.swift`
+- ⚙️ I use daily: `.html`, `.css`, `.php`, `.js`, `.psd`, `.ai`, `.sql`, `.json`, `.xcodeproj`, `.swift`
 - 🌱 I’m currently learning... each one of those listed above 😜
 - 🛠 Favorite tools: **VSCode**, **Xcode**
 - 🔍 My goal is to continue to improve humanly and professionally through the deepening of my knowledge
