@@ -8,7 +8,7 @@
 - 🛠 Favorite tools: **VSCode**, **Xcode**
 - 💬 Ping me about **UXDesign**, **Swift**, **SwiftUI**, **macOS/iOS Development**
 - 🔍 My goal is to continue to improve humanly and professionally through the deepening of my knowledge
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/carraromarco/) -  [Twitter](https://twitter.com/carra89)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/carraromarco/)
 - 🌍 World explorer
 - 😉 Fun fact: "I'm not always rude and sarcastic... sometimes I'm asleep..."
 
